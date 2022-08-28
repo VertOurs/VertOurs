@@ -8,7 +8,7 @@ A daily user of Linux since recently (Lutris, proton, GLF, you have broken the l
 
 ## My latest project
 
-If you want to know how I code, look at [this](https://github.com/VertOurs/OC_P9_MediScreen) microservice project with docker and docker-compose. The pinned projects are good too 😄.
+If you want to know how I code, look at [this](https://github.com/VertOurs/OC_P9_MediScreen) microservice project with docker and docker-compose. The pinned projects are good too :point_down:.
 
 ## Plans
 
