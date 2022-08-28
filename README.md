@@ -1,9 +1,12 @@
-### Hi, I'm Raphael👋
+### Hi, my name is Raphaël 👋
 
-<!--
-**VertOurs/VertOurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I always immerse in the discovery of IT/Coding. As you can see by browsing through my projects, JAVA, SPRING and back-end in general are my current preferences. But it's mostly because I haven’t had the time to discover more for the moment. Kotlin, I'm watching you ! 
 
-Here are some ideas to get you started:
+I want to participate to open-source projects about Linux. Right now, my only contribution is the French translation for this universal application store project under Linux. But since it's written in JavaScript, I don't know how long it will take before I learn enough JS to be able to propose features.
+
+A daily user of Linux since recently (Lutris, proton, GLF, you have broken the last barrier, forever in my heart), Linux is very often my gateway to new interesting stuff.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
