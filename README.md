@@ -33,6 +33,3 @@ If you want to talk about all of this, please contact me at raphael.h.perrin@gma
 
 :smiling_face_with_three_hearts: I love it so much !!!! Have I told you that it supports parallel downloads unlike `apt`?
 
-
-
-[![VertOurs's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VertOurs&layout=compact&theme=github_dark&hide_title=true)](https://github.com/VertOurs)
